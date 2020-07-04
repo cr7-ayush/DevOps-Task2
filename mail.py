@@ -7,7 +7,7 @@ Testing Failed.
 '''
 
 sender_address = 'ayushkumar.tiwari@gmail.com'
-sender_pass = 'burningdesire'
+sender_pass = '*************'
 receiver_address = 'ayushkumar.tiwari@gmail.com'
 
 message = MIMEMultipart() 
